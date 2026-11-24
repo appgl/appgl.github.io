@@ -1,0 +1,14 @@
+{
+ 
+ "gems": 0,
+ "sound": 0,
+ "music": 0,
+ "music_select": 1,
+ "background_select": 1,
+ "SelectActiveGirl": 0,
+ "ArrayGirlColorSave": "",
+ "ArrayGirlSave": "",
+ "ArrayGirlSaveStudioConfig": "",
+ "ListSpawnStudioCharacter": ""
+ 
+}

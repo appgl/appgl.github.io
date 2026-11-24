@@ -1,0 +1,30 @@
+{
+
+ "block": 0,
+ "tap_start": 0,
+ "loader": 0,
+ "start_drop_girl": 0,
+ "select_studio_character_id": -1,
+ "select_type_id": "none",
+ "invisible_all_ui": 0,
+ "Param_lang_last": 0,
+ "Param_coin_item": 0,
+ "Param_index_tag": 0,
+ "Param_tag": "none",
+ "select_count_list_item": 1,
+ "select_count_list_max_item": 1,
+ "select_count_list": 1,
+ "select_count_list_max": 1,
+ "max_frame_select_": 0,
+ "select_name_item": "none",
+ "index_category": 0,
+ "id_item_button": 0,
+ "id_param_button": 0,
+ "name_attribute_color": "none",
+ "select_count_list_background": 1,
+ "id_name_tag_id_color": 0,
+ "checkbox_shadow": 1,
+ "checkbox_all_pose": 0
+
+
+}
